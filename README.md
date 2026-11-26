@@ -32,11 +32,11 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-25 by Dirección General de Aduanas (DGA) — 1 rate. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-26 by Dirección General de Aduanas (DGA) — 1 rate. Updated 2026-11-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| USD | DOP | reference | 60.5286 |
+| USD | DOP | reference | 60.7912 |
 
 </details>
 
